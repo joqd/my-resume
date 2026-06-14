@@ -9,7 +9,7 @@ type Experience = {
 const expericences: Experience[] = [
     {
         title: "Healifa",
-        description: "Collaboration in backend development with Django framework (2024-2025).",
+        description: "Collaboration in backend development with Django framework (2024-now).",
         url: "https://healifa.com",
     },
     {

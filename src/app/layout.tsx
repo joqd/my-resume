@@ -1,11 +1,12 @@
+// @ts-ignore: CSS module declaration missing for global styles
 import "./globals.css";
 import { Footer } from "@/components/footer";
 
 
 export const metadata = {
-    title: "Joqd",
+    title: "Abolfazl Shahbazi",
     icons: {
-        icon: "/favicon.ico",
+        icon: "/favicon.svg",
     },
 };
 

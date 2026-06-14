@@ -84,7 +84,7 @@ export default function Home() {
                 <span className={`${newsreader.className} italic`}>
                     Crafting robust backends.
                 </span>{" "}
-                Building reliable, maintainable services with Go. Detail‑driven and
+                Building reliable, maintainable services with Go/Python. Detail‑driven and
                 team‑focused, grounded in software architecture and proven design
                 patterns.
             </div>
@@ -141,7 +141,7 @@ export default function Home() {
             <div className="mt-10 text-justify">
                 <div className="text-lg mb-3">Now</div>
                 <div>
-                    Freelancing as a Backend Developer, sharpening Go‑based architectures and scalable API design. Recharging on psychology and <span className={`${newsreader.className} italic`}>history</span> reads, and leveling up strategic thinking through narrative‑driven video games.
+                    Freelancing as a backend developer, sharpening Python‑based architectures and scalable API design. Recharging on psychology and <span className={`${newsreader.className} italic`}>history</span> reads, and leveling up strategic thinking through narrative‑driven video games.
                 </div>
                 <div className="my-3">
                     Exploring software craftsmanship beyond code—studying architecture patterns, systems design, and the invisible elegance that makes software feel seamless.
@@ -155,7 +155,7 @@ export default function Home() {
                 <div className="text-lg">Contact</div>
                 <div>
                     Reach me at{" "}
-                    <span className="underline">rodia2559@gmail.com</span>
+                    <span className="underline">rodxa@proton.me</span>
                 </div>
             </div>
         </main>
