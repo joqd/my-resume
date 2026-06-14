@@ -1,4 +1,3 @@
-// @ts-ignore: CSS module declaration missing for global styles
 import "./globals.css";
 import { Footer } from "@/components/footer";
 
